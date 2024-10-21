@@ -9,7 +9,7 @@ use aidoku::{
 use otaku_sanctuary_template::template::OtakuSanctuarySource;
 
 static INSTANCE: OtakuSanctuarySource = OtakuSanctuarySource {
-	base_url: "https://otakusan.net",
+	base_url: "https://otakusan1.net",
 };
 
 #[get_manga_list]
